@@ -66,13 +66,15 @@ a|
 
 == Как установить
 
-. File
-. Settings
-. Editor
-. Inspections
-. Шестеренка
-. Import profile
-. Выбрать `Nitpicking_inspections.xml`
+. Скачать https://raw.githubusercontent.com/diligent-snail/intellij-idea-inspections/main/Nitpicking_inspections.xml[`Nitpicking_inspections.xml`]
+. Открыть Intellij IDEA, в ней:
+.. File
+.. Settings
+.. Editor
+.. Inspections
+.. Шестеренка
+.. Import profile
+.. Выбрать `Nitpicking_inspections.xml`
 
 == Ссылки
 
